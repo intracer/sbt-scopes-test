@@ -1,0 +1,1 @@
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % sys.props.getOrElse("plugin.version", "0.14.3"))
